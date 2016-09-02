@@ -78,7 +78,7 @@ goto sm2o
 :sm2
 set /a sm_3 = 0
 set /a sm_4 = 0
-goto fuck
+goto sigh
 :sm2o
 
 :smo3
@@ -93,7 +93,7 @@ if %sm_3% LSS 255 goto sm3
 goto sm3o
 :sm3
 set /a sm_4 = 0
-goto fuck
+goto sigh
 :sm3o
 
 :smo4
@@ -107,11 +107,11 @@ if %sm_4% LSS 0 goto smo4
 
 cls
 
-:fuck
+:sigh
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::Now for the math shit [fuck me]
+::Now for the math
 
 ::Find the class
 if %ip_1% LSS 255 set class=E
