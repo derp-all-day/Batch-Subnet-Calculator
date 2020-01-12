@@ -1,6 +1,6 @@
 @echo off
 @mode con cols=85 lines=27
-TITLE Batch Subnet Calculator - Green Hat aka Zacky
+TITLE Batch Subnet Calculator
 ::::::::::::::::::::::::::::::::::::
 ::::A subnet calculator in batch::::
 ::::::::::::::::::::::::::::::::::::
